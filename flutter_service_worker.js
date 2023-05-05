@@ -4,13 +4,13 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "2474c9cef0a9b2772d9e32e8da9079b4",
-"assets/assets/icons/behance.svg": "35ad2d47e647d0b168e7707b2984c6b5",
-"assets/assets/icons/check.svg": "4220c82511cc1dfb40b8bba7d25c5f55",
-"assets/assets/icons/download.svg": "628700a3031424d215a441fab2da1731",
-"assets/assets/icons/dribble.svg": "d392567c5678d42472d2c7b766268101",
-"assets/assets/icons/github.svg": "9226aa209923e38c0a6ddcb236e2bc68",
-"assets/assets/icons/linkedin.svg": "5b2195ddf9e879047dd8a163c4194920",
-"assets/assets/icons/twitter.svg": "a4a0163fef48a4247a305528c07bc4fa",
+"assets/assets/icons/behance.svg": "1487dff57f5c15131037cb6965a4d0bf",
+"assets/assets/icons/check.svg": "bce7a581bb999caac446c9138a57a401",
+"assets/assets/icons/download.svg": "8c24d4679cb0c5297277321bf7b65d28",
+"assets/assets/icons/dribble.svg": "cf842513f50591eb280695ad14bfa409",
+"assets/assets/icons/github.svg": "49b7a0f6543674cc4743ec1a9f02e368",
+"assets/assets/icons/linkedin.svg": "2f5e837978e8a6bb595dfd11c8dbd42f",
+"assets/assets/icons/twitter.svg": "c09d9f98cb67b0dfc2aa4c63170f2632",
 "assets/assets/images/bg.jpeg": "c6449162dc3940daa640a43101cfd66c",
 "assets/assets/images/IMG_7344.jpg": "bb74c3d7c6f5599d40c05a866b31ffd6",
 "assets/assets/images/myPhoto.jpg": "769987e18e32c4feb9393e9cece9c521",
@@ -26,10 +26,10 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fe918088b5e8fc707915949c5bc37e6f",
-"/": "fe918088b5e8fc707915949c5bc37e6f",
-"main.dart.js": "97ce92c54d5c39295a2f1f75ab302767",
-"manifest.json": "14533758d5adebb52c270151b0335f00",
+"index.html": "917ca8672a5b22ed058ece320ad3fced",
+"/": "917ca8672a5b22ed058ece320ad3fced",
+"main.dart.js": "db4094a63cb123505f8854dda407caa8",
+"manifest.json": "6f329b3a398bb282fa75661ee9d0abb8",
 "version.json": "1ac57eb0214a8f5216f1da7dd479b33f"
 };
 
