@@ -65788,7 +65788,7 @@ return A.a3($async$ko,r)},
 I(a){var s=this,r=null,q=t.p
 return new A.F6(A.ajr(!0,A.f9(A.a([new A.H4(r),A.mH(A.anV(A.f9(A.a([new A.oV("Residence","India",r),new A.oV("City","Vadodara",r),new A.oV("Age","25",r),new A.K6(r),A.dq(r,20,r),new A.DR(r),new A.Gr(r),A.VU(),A.dq(r,r,10),A.aof(A.amu(B.S,A.fY(A.a([A.cz("Download CV",r,r,A.ez(r,r,A.ai(a).p3.y.b,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dq(r,r,10),A.Ky("assets/icons/download.svg")],q),B.R,B.O,B.a8),B.p,B.lt),new A.a5H(s)),A.fa(r,A.fY(A.a([new A.iZ(1,r),A.G8(r,A.Ky("assets/icons/linkedin.svg"),r,new A.a5I(s),r),A.G8(r,A.Ky("assets/icons/github.svg"),r,new A.a5J(s),r),A.G8(r,A.Ky("assets/icons/twitter.svg"),r,new A.a5K(s),r),new A.iZ(1,r)],q),B.R,B.O,B.a8),B.p,new A.S(4280558638),r,r,r,r,new A.b4(0,20,0,0),r,r,r,r)],q),B.R,B.O),new A.b4(20,20,20,20)),1)],q),B.R,B.O),!0),r)}}
 A.a5H.prototype={
-$0(){this.a.ko(A.lU("https://drive.google.com/file/d/1vBOzrLT3cMegFZefrf54EgB3MtxHZ2ia/view?usp=share_link",0,null))},
+$0(){this.a.ko(A.lU("https://drive.google.com/file/d/1mkT8OjkPRI9Zjgp4UpTarEUg4Si6NGpK/view?usp=share_link",0,null))},
 $S:0}
 A.a5I.prototype={
 $0(){this.a.ko(A.lU("https://www.linkedin.com/in/divyang-dantani-66110911a",0,null))},
